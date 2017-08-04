@@ -1,0 +1,70 @@
+C:\Documents and Settings\classpc\My Documents\Visual Studio 2008\Projects\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\classpc\My Documents\Visual Studio 2008\Projects\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\WindowsApplication1.CheckAccBalanceForm.resources
+C:\Documents and Settings\classpc\My Documents\Visual Studio 2008\Projects\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\classpc\My Documents\Visual Studio 2008\Projects\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\CheckingAccountBalance.vbproj.GenerateResource.Cache
+C:\Documents and Settings\classpc\My Documents\Visual Studio 2008\Projects\CheckingAccountBalance\CheckingAccountBalance\bin\Debug\CheckingAccountBalance.exe
+C:\Documents and Settings\classpc\My Documents\Visual Studio 2008\Projects\CheckingAccountBalance\CheckingAccountBalance\bin\Debug\CheckingAccountBalance.pdb
+C:\Documents and Settings\classpc\My Documents\Visual Studio 2008\Projects\CheckingAccountBalance\CheckingAccountBalance\bin\Debug\CheckingAccountBalance.xml
+C:\Documents and Settings\classpc\My Documents\Visual Studio 2008\Projects\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\CheckingAccountBalance.exe
+C:\Documents and Settings\classpc\My Documents\Visual Studio 2008\Projects\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\CheckingAccountBalance.xml
+C:\Documents and Settings\classpc\My Documents\Visual Studio 2008\Projects\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\CheckingAccountBalance.pdb
+D:\Visual Basic\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\CheckingAccountBalance.exe
+D:\Visual Basic\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\CheckingAccountBalance.xml
+D:\Visual Basic\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\CheckingAccountBalance.pdb
+E:\Visual Basic\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\CheckingAccountBalance.exe
+E:\Visual Basic\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\CheckingAccountBalance.xml
+E:\Visual Basic\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\CheckingAccountBalance.pdb
+D:\Visual Basic\CheckingAccountBalance\CheckingAccountBalance\bin\Debug\CheckingAccountBalance.exe
+D:\Visual Basic\CheckingAccountBalance\CheckingAccountBalance\bin\Debug\CheckingAccountBalance.pdb
+D:\Visual Basic\CheckingAccountBalance\CheckingAccountBalance\bin\Debug\CheckingAccountBalance.xml
+D:\Visual Basic\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Basic\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\WindowsApplication1.CheckAccBalanceForm.resources
+D:\Visual Basic\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\WindowsApplication1.Resources.resources
+D:\Visual Basic\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\CheckingAccountBalance.vbproj.GenerateResource.Cache
+E:\Visual Basic\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Basic\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\WindowsApplication1.CheckAccBalanceForm.resources
+E:\Visual Basic\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\WindowsApplication1.Resources.resources
+E:\Visual Basic\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\CheckingAccountBalance.vbproj.GenerateResource.Cache
+E:\Visual Basic\CheckingAccountBalance\CheckingAccountBalance\bin\Debug\CheckingAccountBalance.exe
+E:\Visual Basic\CheckingAccountBalance\CheckingAccountBalance\bin\Debug\CheckingAccountBalance.pdb
+E:\Visual Basic\CheckingAccountBalance\CheckingAccountBalance\bin\Debug\CheckingAccountBalance.xml
+F:\Visual Basic\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\CheckingAccountBalance.exe
+F:\Visual Basic\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\CheckingAccountBalance.xml
+F:\Visual Basic\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\CheckingAccountBalance.pdb
+F:\Visual Basic\CheckingAccountBalance\CheckingAccountBalance\bin\Debug\CheckingAccountBalance.exe
+F:\Visual Basic\CheckingAccountBalance\CheckingAccountBalance\bin\Debug\CheckingAccountBalance.pdb
+F:\Visual Basic\CheckingAccountBalance\CheckingAccountBalance\bin\Debug\CheckingAccountBalance.xml
+F:\Visual Basic\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\ResolveAssemblyReference.cache
+F:\Visual Basic\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\WindowsApplication1.CheckAccBalanceForm.resources
+F:\Visual Basic\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\WindowsApplication1.Resources.resources
+F:\Visual Basic\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Visual Basic\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Midlands Tech\CPT 118 - Visual Basic\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\CheckingAccountBalance.exe
+F:\Midlands Tech\CPT 118 - Visual Basic\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\CheckingAccountBalance.xml
+F:\Midlands Tech\CPT 118 - Visual Basic\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\CheckingAccountBalance.pdb
+F:\Midlands Tech\CPT 118 - Visual Basic\CheckingAccountBalance\CheckingAccountBalance\bin\Debug\CheckingAccountBalance.exe
+F:\Midlands Tech\CPT 118 - Visual Basic\CheckingAccountBalance\CheckingAccountBalance\bin\Debug\CheckingAccountBalance.pdb
+F:\Midlands Tech\CPT 118 - Visual Basic\CheckingAccountBalance\CheckingAccountBalance\bin\Debug\CheckingAccountBalance.xml
+F:\Midlands Tech\CPT 118 - Visual Basic\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\ResolveAssemblyReference.cache
+F:\Midlands Tech\CPT 118 - Visual Basic\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\WindowsApplication1.CheckAccBalanceForm.resources
+F:\Midlands Tech\CPT 118 - Visual Basic\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\WindowsApplication1.Resources.resources
+F:\Midlands Tech\CPT 118 - Visual Basic\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Midlands Tech\CPT 118 - Visual Basic\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Documents\School\Midlands Tech\CPT 185 VB.NET\Projects\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\CheckingAccountBalance.exe
+F:\Documents\School\Midlands Tech\CPT 185 VB.NET\Projects\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\CheckingAccountBalance.xml
+F:\Documents\School\Midlands Tech\CPT 185 VB.NET\Projects\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\CheckingAccountBalance.pdb
+F:\Documents\School\Midlands Tech\CPT 185 VB.NET\Projects\CheckingAccountBalance\CheckingAccountBalance\bin\Debug\CheckingAccountBalance.exe
+F:\Documents\School\Midlands Tech\CPT 185 VB.NET\Projects\CheckingAccountBalance\CheckingAccountBalance\bin\Debug\CheckingAccountBalance.pdb
+F:\Documents\School\Midlands Tech\CPT 185 VB.NET\Projects\CheckingAccountBalance\CheckingAccountBalance\bin\Debug\CheckingAccountBalance.xml
+F:\Documents\School\Midlands Tech\CPT 185 VB.NET\Projects\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\WindowsApplication1.CheckAccBalanceForm.resources
+F:\Documents\School\Midlands Tech\CPT 185 VB.NET\Projects\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\WindowsApplication1.Resources.resources
+F:\Documents\School\Midlands Tech\CPT 185 VB.NET\Projects\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\CheckingAccountBalance.vbproj.GenerateResource.Cache
+F:\Documents\Development\Projects\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\CheckingAccountBalance.exe
+F:\Documents\Development\Projects\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\CheckingAccountBalance.xml
+F:\Documents\Development\Projects\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\CheckingAccountBalance.pdb
+F:\Documents\Development\Projects\CheckingAccountBalance\CheckingAccountBalance\bin\Debug\CheckingAccountBalance.exe
+F:\Documents\Development\Projects\CheckingAccountBalance\CheckingAccountBalance\bin\Debug\CheckingAccountBalance.pdb
+F:\Documents\Development\Projects\CheckingAccountBalance\CheckingAccountBalance\bin\Debug\CheckingAccountBalance.xml
+F:\Documents\Development\Projects\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\WindowsApplication1.CheckAccBalanceForm.resources
+F:\Documents\Development\Projects\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\WindowsApplication1.Resources.resources
+F:\Documents\Development\Projects\CheckingAccountBalance\CheckingAccountBalance\obj\Debug\CheckingAccountBalance.vbproj.GenerateResource.Cache

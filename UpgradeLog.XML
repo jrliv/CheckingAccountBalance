@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CheckingAccountBalance">
+</Property><Property Name="Solution File" Value="F:\Visual Basic\CheckingAccountBalance\CheckingAccountBalance.sln">
+</Property><Property Name="User Options File" Value="F:\Visual Basic\CheckingAccountBalance\CheckingAccountBalance.suo">
+</Property><Property Name="Date" Value="Monday, February 28, 2011">
+</Property><Property Name="Time" Value="22:56 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CheckingAccountBalance.sln" Description="File successfully backed up as F:\Visual Basic\CheckingAccountBalance\Backup\CheckingAccountBalance.sln">
+</Event><Event ErrorLevel="0" Project="" Source="CheckingAccountBalance.suo" Description="File successfully backed up as F:\Visual Basic\CheckingAccountBalance\Backup\CheckingAccountBalance.suo">
+</Event><Event ErrorLevel="0" Project="CheckingAccountBalance" Source="CheckingAccountBalance\CheckingAccountBalance.vbproj" Description="Project file successfully backed up as F:\Visual Basic\CheckingAccountBalance\Backup\CheckingAccountBalance\CheckingAccountBalance.vbproj">
+</Event><Event ErrorLevel="0" Project="CheckingAccountBalance" Source="CheckingAccountBalance\CheckingAccountBalance.vbproj.user" Description="Project user file successfully backed up as F:\Visual Basic\CheckingAccountBalance\Backup\CheckingAccountBalance\CheckingAccountBalance.vbproj.user">
+</Event><Event ErrorLevel="0" Project="CheckingAccountBalance" Source="CheckingAccountBalance\CheckAccBalanceForm.vb" Description="File successfully backed up as F:\Visual Basic\CheckingAccountBalance\Backup\CheckingAccountBalance\CheckAccBalanceForm.vb">
+</Event><Event ErrorLevel="0" Project="CheckingAccountBalance" Source="CheckingAccountBalance\CheckAccBalanceForm.Designer.vb" Description="File successfully backed up as F:\Visual Basic\CheckingAccountBalance\Backup\CheckingAccountBalance\CheckAccBalanceForm.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CheckingAccountBalance" Source="CheckingAccountBalance\My Project\AssemblyInfo.vb" Description="File successfully backed up as F:\Visual Basic\CheckingAccountBalance\Backup\CheckingAccountBalance\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="CheckingAccountBalance" Source="CheckingAccountBalance\My Project\Application.Designer.vb" Description="File successfully backed up as F:\Visual Basic\CheckingAccountBalance\Backup\CheckingAccountBalance\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CheckingAccountBalance" Source="CheckingAccountBalance\My Project\Resources.Designer.vb" Description="File successfully backed up as F:\Visual Basic\CheckingAccountBalance\Backup\CheckingAccountBalance\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CheckingAccountBalance" Source="CheckingAccountBalance\My Project\Settings.Designer.vb" Description="File successfully backed up as F:\Visual Basic\CheckingAccountBalance\Backup\CheckingAccountBalance\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CheckingAccountBalance" Source="CheckingAccountBalance\My Project\Application.myapp" Description="File successfully backed up as F:\Visual Basic\CheckingAccountBalance\Backup\CheckingAccountBalance\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="CheckingAccountBalance" Source="CheckingAccountBalance\My Project\Settings.settings" Description="File successfully backed up as F:\Visual Basic\CheckingAccountBalance\Backup\CheckingAccountBalance\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="CheckingAccountBalance" Source="CheckingAccountBalance\CheckAccBalanceForm.resx" Description="File successfully backed up as F:\Visual Basic\CheckingAccountBalance\Backup\CheckingAccountBalance\CheckAccBalanceForm.resx">
+</Event><Event ErrorLevel="0" Project="CheckingAccountBalance" Source="CheckingAccountBalance\My Project\Resources.resx" Description="File successfully backed up as F:\Visual Basic\CheckingAccountBalance\Backup\CheckingAccountBalance\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="CheckingAccountBalance" Source="CheckingAccountBalance\CheckingAccountBalance.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CheckingAccountBalance" Source="CheckingAccountBalance\CheckingAccountBalance.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CheckingAccountBalance.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CheckingAccountBalance.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CheckingAccountBalance" Source="CheckingAccountBalance\CheckingAccountBalance.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
