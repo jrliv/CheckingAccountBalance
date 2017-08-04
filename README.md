@@ -14,4 +14,4 @@ The main thing the program allows you to do is select a transaction type and ent
 
 ##	Usage
 
-Feel free to do whatever you want with this project. I'm not planning on changing or updating it so I included the executable file. If you're using Windows and you just want to run and play with it you can download and run <a href="https://github.com/jrliv/CheckingAccountBalanace/blob/master/CheckingAccountBalanace/bin/Debug/CheckingAccountBalanace.exe" target="_blank">the executable</a>.
+Feel free to do whatever you want with this project. I'm not planning on changing or updating it so I included the executable file. If you're using Windows and you just want to run and play with it you can download and run <a href="https://github.com/jrliv/CheckingAccountBalance/blob/master/CheckingAccountBalance/bin/Debug/CheckingAccountBalance.exe" target="_blank">the executable</a>.
